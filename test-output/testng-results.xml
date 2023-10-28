@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-28T15:40:41 IST" name="Default suite" finished-at="2023-10-28T15:40:58 IST" duration-ms="16435">
+    <groups>
+    </groups>
+    <test started-at="2023-10-28T15:40:41 IST" name="Default test" finished-at="2023-10-28T15:40:58 IST" duration-ms="16435">
+      <class name="Module_TestData_Test.ModuleTD_Testclass">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:Module_TestData_Test.ModuleTD_Testclass@51e69659]" started-at="2023-10-28T15:40:41 IST" name="openbrowser" finished-at="2023-10-28T15:40:45 IST" duration-ms="4004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="setinputintable()[pri:0, instance:Module_TestData_Test.ModuleTD_Testclass@51e69659]" started-at="2023-10-28T15:40:45 IST" name="setinputintable" finished-at="2023-10-28T15:40:53 IST" duration-ms="7899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setinputintable -->
+        <test-method signature="verifytabledata()[pri:0, instance:Module_TestData_Test.ModuleTD_Testclass@51e69659]" started-at="2023-10-28T15:40:53 IST" name="verifytabledata" finished-at="2023-10-28T15:40:54 IST" duration-ms="1131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytabledata -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:Module_TestData_Test.ModuleTD_Testclass@51e69659]" started-at="2023-10-28T15:40:54 IST" name="closebrowser" finished-at="2023-10-28T15:40:58 IST" duration-ms="3352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- Module_TestData_Test.ModuleTD_Testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
